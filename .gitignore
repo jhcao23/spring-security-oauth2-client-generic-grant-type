@@ -1,7 +1,7 @@
 bin/
 target/
 !.mvn/wrapper/maven-wrapper.jar
-
+.mvn/
 .vscode/
 ### STS ###
 .apt_generated
