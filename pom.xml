@@ -5,7 +5,7 @@
 
 	<groupId>org.springframework.security.oauth</groupId>
 	<artifactId>spring-security-oauth2-client-generic-grant-type</artifactId>
-	<version>0.0.1.RELEASE</version>
+	<version>0.0.2.RELEASE</version>
 	<packaging>jar</packaging>
 
 	<name>spring-security-oauth2-client-generic-grant-type</name>
