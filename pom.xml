@@ -5,7 +5,7 @@
 
 	<groupId>org.springframework.security.oauth</groupId>
 	<artifactId>spring-security-oauth2-client-generic-grant-type</artifactId>
-	<version>0.0.2.RELEASE</version>
+	<version>0.0.3.RELEASE</version>
 	<packaging>jar</packaging>
 
 	<name>spring-security-oauth2-client-generic-grant-type</name>
@@ -39,7 +39,7 @@
 	            <!-- Import dependency management from Spring Boot -->
 	            <groupId>org.springframework.boot</groupId>
 	            <artifactId>spring-boot-dependencies</artifactId>
-	            <version>1.5.4.RELEASE</version>
+	            <version>1.5.10.RELEASE</version>
 	            <type>pom</type>
 	            <scope>import</scope>
 	        </dependency>
